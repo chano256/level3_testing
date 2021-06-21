@@ -1,9 +1,9 @@
 <?php
 
-namespace App;
+namespace level3_testing;
 
 use Illuminate\Database\Eloquent\Model;
-use App\Exceptions\MinorCannotBuyAlcoholicBeverageException;
+use level3_testing\Exceptions\MinorCannotBuyAlcoholicBeverageException;
 
 class Beverage extends Model
 {

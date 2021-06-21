@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions;
+namespace level3_testing\Exceptions;
 
 use Exception;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;

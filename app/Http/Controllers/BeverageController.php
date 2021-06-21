@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace level3_testing\Http\Controllers;
 
 use Illuminate\Http\Request;
 

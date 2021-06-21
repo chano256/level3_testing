@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace level3_testing\Providers;
 
 use Illuminate\Support\Facades\Event;
 use Illuminate\Auth\Events\Registered;

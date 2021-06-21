@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace level3_testing\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Broadcast;
